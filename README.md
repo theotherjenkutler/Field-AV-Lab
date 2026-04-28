@@ -13,6 +13,10 @@ based on the Om Synth by Peter Edwards of Casper Electronics (casperelectronics.
 the CHA/V by Jonas Bers (jonasbers.com) PCB Artwork by Paloma Kop (palomakop.tv).
 
 Instructional videos for the Om Synth and 'recipes' translate to this board e.g.
-https://www.youtube.com/watch?v=FaoJaLmZaL4
-https://www.youtube.com/watch?v=t7JYOIYqMEY
-https://www.youtube.com/watch?v=ECSYLTB_sbw
+<br>https://www.youtube.com/watch?v=FaoJaLmZaL4
+<br>https://www.youtube.com/watch?v=t7JYOIYqMEY
+<br>https://www.youtube.com/watch?v=ECSYLTB_sbw
+
+It also offers a lower cost point of entry than the LABOR but can be used practically in the
+same way for instructional videos like these:
+<br>https://www.youtube.com/watch?v=Xbl1xwFR3eg
